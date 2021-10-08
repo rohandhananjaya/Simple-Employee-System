@@ -1,5 +1,5 @@
 <?php
-$title = "Login";
+$title = "Login"; //Set Login ppage title
 include_once '../Modules/header.php';
 include_once '../Modules/core-func.php';
 
